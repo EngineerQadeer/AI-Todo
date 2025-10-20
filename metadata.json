@@ -1,0 +1,5 @@
+{
+  "name": "AI To-Do Planner",
+  "description": "An AI-powered To-Do application that helps you organize your tasks. It features a dashboard, analytics, and an AI assistant to generate tasks from natural language.",
+  "requestFramePermissions": []
+}
